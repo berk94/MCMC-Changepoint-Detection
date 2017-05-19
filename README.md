@@ -4,7 +4,8 @@ BounCMPE547_TermProject
 This is our term project for the course CMPE547.01 taught at Bogazici University by Taylan Cemgil. 
 
 <figure>
-  <img name="Klementinum"
+  <img style="pointer-events: none;
+   cursor: default;" name="Klementinum"
 src="https://drive.google.com/uc?export=view&id=0BwxjlJsvjKMLeU5XcUpVRERvRmM"
 height=200>
   <figcaption> Klementinum, Prague </figcaption>
