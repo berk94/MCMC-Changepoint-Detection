@@ -1,7 +1,7 @@
 # MCMC-Changepoint-Detection-Klementinum
 BounCMPE547_TermProject
 
-This is our term project for the course CMPE547.01 taught at Bogazici University by Taylan Cemgil. 
+This is our term project for the course CMPE547.01 taught at Bogazici University by [A.Taylan Cemgil](https://github.com/atcemgil). 
 
 <figure style="text-align:center;">
   <img name="Klementinum"
