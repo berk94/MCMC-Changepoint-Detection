@@ -10,6 +10,9 @@ height=200>
   <figcaption> Klementinum, Prague </figcaption>
 </figure>
 
+<br/>
+<br/>
+
 We created synthetic data for the temperatures measured at Klementinum meteorological station over the years 1775-1992 and used a two-phase linear model with a jump to detect a changepoint.
 
 Contributors:
